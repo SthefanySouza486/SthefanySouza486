@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 * 🎓 Estudante de **Análise e Desenvolvimente de Sistemas** na **FEMA**. 
-* 💼 Estagiária na própria instituição, atuando como **Desenvolvedora Java**.
+* 💼 Estagiária na instituição **FEMA**, atuando como **Desenvolvedora Java**.
 * 📫 Como entrar em contato comigo:
   <div> 
   <a href="www.linkedin.com/in/sthefany-souza-a247372aa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/a>
